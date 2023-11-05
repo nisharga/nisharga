@@ -42,6 +42,9 @@
  <a href="https://api.whatsapp.com/send?phone=8801515601742&text=Call%20me%20once%20you%20get%20free!!" target="_blank">
   <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>
+   <a href="https://discord.com/users/nisharga#0" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-0000ff?style=for-the-badge&logo=discord&logoColor=white" />
+ </a>
  <a href="https://instagram.com/alsiam_dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
