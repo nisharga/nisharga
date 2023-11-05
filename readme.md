@@ -44,11 +44,8 @@
  </a>
    <a href="https://discord.com/users/nisharga#0" target="_blank">
   <img src="https://img.shields.io/badge/Discord-0000ff?style=for-the-badge&logo=discord&logoColor=white" />
- </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
+ <a href="https://www.facebook.com/profile.php?id=100007032136548" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
