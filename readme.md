@@ -104,7 +104,7 @@
 [![React Project](https://github-readme-stats.vercel.app/api/pin/?username=nisharga&repo=gpt-guider&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nisharga/gpt-guider)
 
 <p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/nisharga?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -112,14 +112,14 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/nisharga">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisharga&theme=radical&border=7F3FBF&background=0D1117" alt="NISHARGA GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/nisharga">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisharga&theme=radical" alt="Nisharga GitHub"/>
   </a>
 </p>
 
