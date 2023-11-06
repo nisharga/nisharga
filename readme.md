@@ -1,4 +1,4 @@
- <img width="100%" src="/assets/nisharga_github.png" alt="Nisharga Photo" />
+ <img width="100%" src="/assets/nisharga_kabir_github.png.png" alt="Nisharga Photo" />
 
 <h1 align="center">
   Welcome to Nisharga Kabir World!
