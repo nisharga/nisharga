@@ -1,3 +1,4 @@
+ <img src="/assets/nisharga_github.png" alt="Nisharga Photo" />
 
 <h1 align="center">
   Welcome to Nisharga Kabir World!
