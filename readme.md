@@ -119,7 +119,7 @@
 <img width="441" height="1px">
 <p> 
 <small>
-EXAMPLE TEXT
+GitHub streak
 </small>
 </p>
 </th>
@@ -127,60 +127,36 @@ EXAMPLE TEXT
 <img width="441" height="1">
 <p> 
 <small>
-EXAMPLE TEXT
+GitHub Trophy
 </small>
 </p>
 </th>
 </tr>
 <tr>
 <td>
-
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
-  
-</td>
-<td>
-  
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
-  
-</td>
-</tr>
-<tr>
-<td align="center">
-Column 1
-</td>
-<td align="center">
-Column 2
-</td>
-</tr>
-</table>
-
-
-<p align="right">
+<p align="center">
   <a href="https://github.com/nisharga">
     <img src="https://github-profile-trophy.vercel.app/?username=nisharga&theme=discord&row=2&column=3" alt="NISHARGA GitHub Trophy"/>
   </a>
 </p>
  
- 
-  <a href="https://github.com/nisharga">
+  
+</td>
+<td>
+  
+ <a href="https://github.com/nisharga">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisharga&theme=radical&border=7F3FBF&background=0D1117" alt="NISHARGA GitHub streak"/>
   </a>
+  
+</td>
+</tr> 
+</table>
+
+
+
+ 
+ 
+  
  
 
 <p align="center">
