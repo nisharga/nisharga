@@ -153,7 +153,9 @@ GitHub Trophy
 </table>
 
 
-
+<br/>
+<hr/>
+<br/>
  
  
   
@@ -171,5 +173,8 @@ GitHub Trophy
   <br/>
 </a>
 
+<br/>
+<hr/>
+<br/>
 
 ![Nisharga Kabir Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisharga&custom_title=Nisharga%20Kabir%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
