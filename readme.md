@@ -112,8 +112,9 @@
 <hr/>
 <br/>
 
-   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
- 
+<p align="right">
+ ![](https://github-profile-trophy.vercel.app/?username=nisharga&theme=discord&row=2&column=3)
+</p> 
 <p align="center">
   <a href="https://github.com/nisharga">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisharga&theme=radical&border=7F3FBF&background=0D1117" alt="NISHARGA GitHub streak"/>
