@@ -47,7 +47,10 @@
   <img src="https://img.shields.io/badge/Discord-0000ff?style=for-the-badge&logo=discord&logoColor=white" />
  </a> 
  <a href="https://www.facebook.com/profile.php?id=100007032136548" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="nk"  />
+  </a> 
+ <a href="https://dev.to/nisharga_kabir/" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-gray?style=for-the-badge&logo=dev.to&logoColor=white" alt="nisharga"  />
   </a> 
 </p>
 <br />
@@ -60,6 +63,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✅  &emsp; Company Github Profile: https://github.com/nex-nisharga/ <br/><br/>
  📧 &emsp; Reach me anytime: kabirnisharga@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/nisharga/nisharga/issues)<br/><br/> 
 
