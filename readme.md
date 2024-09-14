@@ -21,8 +21,7 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b>Nisharga Kabir</b>
-                 [//]: <b><a target="_blank" href="https://nisharga-portfolio.netlify.app/">Nisharga Kabir</a></b> 
+                <b>Nisharga Kabir</b> 
         </samp>
 </h3>
 
@@ -35,12 +34,16 @@
 </p>
 
 <p align="center">
- <a href="https://nisharga.vercel.app/" target="blank">
+ <!---
+<a href="https://nisharga.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.linkedin.com/in/nisharga-kabir/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a> 
+and here
+-->
+ 
  <a href="https://api.whatsapp.com/send?phone=8801515601742&text=Call%20me%20once%20you%20get%20free!!" target="_blank">
   <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>
