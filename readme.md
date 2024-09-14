@@ -21,7 +21,8 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://nisharga-portfolio.netlify.app/">Nisharga Kabir</a></b>
+                <b>Nisharga Kabir</b>
+                //<b><a target="_blank" href="https://nisharga-portfolio.netlify.app/">Nisharga Kabir</a></b>
         </samp>
 </h3>
 
