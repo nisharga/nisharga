@@ -136,7 +136,7 @@ GitHub streak and GitHub Trophy
 <img width="441" height="1">
 <p> 
 <small>
- VS Code Live Preview
+ VS Code Live Preview (From 1 October 2024)
 </small>
 </p>
 </th>
