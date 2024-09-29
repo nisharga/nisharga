@@ -147,9 +147,9 @@ GitHub Trophy
   <a href="https://github.com/nisharga">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisharga&theme=radical&border=7F3FBF&background=0D1117" alt="NISHARGA GitHub streak"/>
   </a>
-   <a href="https://github.com/nisharga">
-    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=nisharga&theme=radical&border=7F3FBF&background=0D1117](https://github-readme-stats.vercel.app/api/wakatime?username=nisharga&theme=gotham&hide_border=true&custom_title=My%20Coding%20Activity%20Overview)" alt="NISHARGA GitHub streak"/>
-  </a>
+
+  ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rupom120&theme=gotham&hide_border=true&custom_title=My%20Coding%20Activity%20Overview)
+
 </td>
 <td>
   
