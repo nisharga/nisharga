@@ -128,7 +128,7 @@ and here
 <img width="441" height="1px">
 <p> 
 <small>
-GitHub streak
+GitHub streak and GitHub Trophy
 </small>
 </p>
 </th>
@@ -136,7 +136,7 @@ GitHub streak
 <img width="441" height="1">
 <p> 
 <small>
-GitHub Trophy
+ VS Code Live Preview
 </small>
 </p>
 </th>
@@ -148,17 +148,17 @@ GitHub Trophy
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisharga&theme=radical&border=7F3FBF&background=0D1117" alt="NISHARGA GitHub streak"/>
   </a>
 
-  ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rupom120&theme=gotham&hide_border=true&custom_title=My%20Coding%20Activity%20Overview)
-
-</td>
-<td>
-  
 <p align="left">
   <a href="https://github.com/nisharga">
     <img src="https://github-profile-trophy.vercel.app/?username=nisharga&theme=discord&row=2&column=3" alt="NISHARGA GitHub Trophy"/>
   </a>
 </p>
-  
+ 
+
+</td>
+<td>
+ 
+   ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nisharga&theme=gotham&hide_border=true&custom_title=My%20Coding%20Activity%20Overview)
 </td>
 </tr> 
 </table>
