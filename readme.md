@@ -108,10 +108,11 @@ and here
 <br/>
 
 ## Top Projects -
+[![Ai-Diet-Planner-Mobile-App](https://github-readme-stats.vercel.app/api/pin/?username=nisharga&repo=ai-diet-planner&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nisharga/ai-diet-planner)
 [![MERN Projects](https://github-readme-stats.vercel.app/api/pin/?username=nisharga&repo=bistro-boss-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nisharga/bistro-boss-client)
 [![TypeScript-Redux Projects](https://github-readme-stats.vercel.app/api/pin/?username=nisharga&repo=Simple_Book_Catalog&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nisharga/simple_book_catalog)
 [![NextJs Project](https://github-readme-stats.vercel.app/api/pin/?username=nisharga&repo=pc-builder&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nisharga/pc-builder)
-[![Ai-Diet-Planner-Mobile-App](https://github-readme-stats.vercel.app/api/pin/?username=nisharga&repo=ai-diet-planner&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nisharga/ai-diet-planner)
+
 
 <p align="left">
   <a href="https://github.com/nisharga?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
